@@ -20,7 +20,7 @@ description: 我应该觉得每个人对技术追求是无限的，技术应得�
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "/aboutme.md"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -52,7 +52,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/navbar.jpg"
-footer-img: "/img/footer.jpg"
+footer-img: "/img/navbar.jpg"
 page-img: "/img/bgimage.jpg"
 
 # --- Footer options --- #
