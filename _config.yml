@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Kafka学习笔记
+title: Kafka NoteBook
 
 # Short description of your site
 description: 我应该觉得每个人对技术追求是无限的，技术应得被尊重
@@ -20,7 +20,7 @@ description: 我应该觉得每个人对技术追求是无限的，技术应得�
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "关于我"
+  About Me: "/aboutme.md"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
