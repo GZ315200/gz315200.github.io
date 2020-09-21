@@ -93,5 +93,5 @@ yelp:
 
 wechat:
   name: "Wechat"
-  baseURL: "https://weixin.qq.com/"
+  baseURL: "https://gz315200.github.io/"
   icon: "fa-weixin"
