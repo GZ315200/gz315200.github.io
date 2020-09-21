@@ -199,6 +199,7 @@ prose:
     - 404.html
     - LICENSE
     - feed.xml
+    - wechat.html
     - _config.yml
     - /_layouts
     - /_includes
