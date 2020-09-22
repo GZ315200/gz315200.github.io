@@ -10,6 +10,6 @@ Hi， 我是泽安，我比较擅长以下几个技术:
 - Javascrpit
 - Kafka/Connect/KStream/KSQL
 - Docker/Kubenates
-- react.js/react native
+- React.js/React Native
 
 我还能为你做些什么？ [请加微信联系。](wechat.html)
