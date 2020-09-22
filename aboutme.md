@@ -1,16 +1,17 @@
 ---
 layout: page
 title: 关于我
-subtitle: Why you'd want to go on a date with me
+subtitle: Tick Tech make everything fun.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi， 我是泽安，我比较擅长以下几个技术:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Java
+- Javascrpit
+- Kafka/Connect/KStream/KSQL
+- docker/kubenates
+- react.js/react native
 
-What else do you need?
+我还能为你做些什么？
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+请加微信联系。
