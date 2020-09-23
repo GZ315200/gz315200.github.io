@@ -7,7 +7,7 @@ image: /img/wechat.png
 
 Hi， 我是泽安，我比较擅长以下几个技术:
 
-- Java
+- Java/Scala/Python
 - Javascrpit
 - Kafka/Connect/KStream/KSQL
 - Docker/Kubenates
