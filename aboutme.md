@@ -2,7 +2,7 @@
 layout: page
 title: 关于我
 subtitle: Tick Tech make everything fun.
-image: /img/wechat.jpeg
+image: /img/wechat.png
 ---
 
 Hi， 我是泽安，我比较擅长以下几个技术:
