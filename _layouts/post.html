@@ -47,11 +47,12 @@ layout: base
           {% endif %}
         </div>
       {% endif %}
-
+      <div class="share-warning">
+        <p class="share-warning-font">需要转载时请注明出处，感谢</p>
+     </div>
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
-
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
