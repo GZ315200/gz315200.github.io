@@ -795,7 +795,7 @@ pre {
   border-radius: 5px 3px 3px 5px;
 }
 
-#share-warning-font {
+.share-warning-font {
   font-family: 'youyuan', sans-serif;
   font-size: 15px;
   color: lightgray;
