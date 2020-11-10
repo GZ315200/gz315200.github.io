@@ -796,5 +796,7 @@ pre {
 }
 
 #share-warning-font {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'youyuan', sans-serif;
+  font-size: 15px;
+  color: lightgray;
 }
