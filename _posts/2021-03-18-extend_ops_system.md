@@ -4,8 +4,6 @@ title: 如何设计一个可靠的、易扩展与维护的系统
 image: /img/data_system.png
 tag: [数据中台][数据系统]
 ---
-# 如何设计一个可靠的、易扩展与维护的系统
-
 Talk is not cheap. Talk can be powerful.    ——来自网络
 
 ## 可靠的系统
